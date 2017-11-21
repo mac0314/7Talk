@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "701686957712",
+    "firebase_url": "https://chat-a96f2.firebaseio.com",
+    "project_id": "chat-a96f2",
+    "storage_bucket": "chat-a96f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701686957712:android:be87d1954ed25d46",
+        "android_client_info": {
+          "package_name": "com.junkfood.a7talk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701686957712-q02na769bnj5biakioe3olfbul7ackv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.junkfood.a7talk",
+            "certificate_hash": "0a5798d8bf4c8553792dfcc23da5db9756ce3aa5"
+          }
+        },
+        {
+          "client_id": "701686957712-rau804823m4v77te8ue9s4t2ijqi7nl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSxZ8PgnoMseuNLyMm58NUkFk0OIUMoLA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701686957712-rau804823m4v77te8ue9s4t2ijqi7nl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
